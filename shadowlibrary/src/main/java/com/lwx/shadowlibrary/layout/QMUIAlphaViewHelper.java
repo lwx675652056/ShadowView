@@ -18,12 +18,10 @@ package com.lwx.shadowlibrary.layout;
 
 import android.support.annotation.NonNull;
 import android.view.View;
-
-
-import com.example.shadowview.R;
+import com.lwx.shadowlibrary.R;
 import com.lwx.shadowlibrary.util.QMUIResHelper;
-
 import java.lang.ref.WeakReference;
+
 
 public class QMUIAlphaViewHelper {
 

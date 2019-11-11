@@ -33,10 +33,8 @@ import android.support.v4.content.ContextCompat;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewOutlineProvider;
-
+import com.lwx.shadowlibrary.R;
 import com.lwx.shadowlibrary.layout.IQMUILayout;
-import com.example.shadowview.R;
-
 import java.lang.ref.WeakReference;
 
 /**

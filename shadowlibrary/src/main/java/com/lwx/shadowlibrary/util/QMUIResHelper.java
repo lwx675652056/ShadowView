@@ -24,8 +24,8 @@ import android.support.v4.content.ContextCompat;
 import android.text.TextUtils;
 import android.util.TypedValue;
 import android.widget.TextView;
+import com.lwx.shadowlibrary.R;
 
-import com.example.shadowview.R;
 
 /**
  *
