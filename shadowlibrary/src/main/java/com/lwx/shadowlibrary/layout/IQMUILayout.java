@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.example.shadowview.layout;
+package com.lwx.shadowlibrary.layout;
 
 import android.support.annotation.ColorInt;
 import android.support.annotation.IntDef;
 import android.view.View;
 
-import com.example.shadowview.util.QMUILayoutHelper;
+import com.lwx.shadowlibrary.util.QMUILayoutHelper;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.example.shadowview.layout;
+package com.lwx.shadowlibrary.layout;
 
 import android.support.annotation.NonNull;
 import android.view.View;
 
 
 import com.example.shadowview.R;
-import com.example.shadowview.util.QMUIResHelper;
+import com.lwx.shadowlibrary.util.QMUIResHelper;
 
 import java.lang.ref.WeakReference;
 

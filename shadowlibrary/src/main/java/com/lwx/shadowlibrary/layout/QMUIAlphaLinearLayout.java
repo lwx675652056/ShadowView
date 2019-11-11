@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.shadowview.layout;
+package com.lwx.shadowlibrary.layout;
 
 import android.content.Context;
 import android.util.AttributeSet;

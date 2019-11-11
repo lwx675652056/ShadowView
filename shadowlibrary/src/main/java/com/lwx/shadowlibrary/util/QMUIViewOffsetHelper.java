@@ -30,7 +30,7 @@
  * limitations under the License.
  */
 
-package com.example.shadowview.util;
+package com.lwx.shadowlibrary.util;
 
 import android.support.v4.view.ViewCompat;
 import android.view.View;

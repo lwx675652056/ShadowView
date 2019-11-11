@@ -8,9 +8,9 @@ import android.widget.RadioGroup;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.example.shadowview.layout.QMUILinearLayout;
-import com.example.shadowview.util.QMUIDisplayHelper;
-import com.example.shadowview.util.QMUILayoutHelper;
+import com.lwx.shadowlibrary.layout.QMUILinearLayout;
+import com.lwx.shadowlibrary.util.QMUIDisplayHelper;
+import com.lwx.shadowlibrary.util.QMUILayoutHelper;
 
 public class MainActivity extends AppCompatActivity {
     private QMUILinearLayout mTestLayout;

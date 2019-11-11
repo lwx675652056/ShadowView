@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.shadowview.util;
+package com.lwx.shadowlibrary.util;
 
 import android.graphics.Color;
 import android.support.annotation.ColorInt;

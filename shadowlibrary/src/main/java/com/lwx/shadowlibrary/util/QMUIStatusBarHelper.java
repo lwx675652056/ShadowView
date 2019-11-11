@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.shadowview.util;
+package com.lwx.shadowlibrary.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -26,7 +26,6 @@ import android.support.annotation.IntDef;
 import android.support.v4.view.ViewCompat;
 import android.view.View;
 import android.view.Window;
-import android.view.WindowInsets;
 import android.view.WindowManager;
 
 import java.lang.annotation.Retention;

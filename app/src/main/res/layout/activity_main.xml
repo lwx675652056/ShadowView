@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
 
-    <com.example.shadowview.layout.QMUILinearLayout
+    <com.lwx.shadowlibrary.layout.QMUILinearLayout
         android:id="@+id/layout_for_test"
         android:layout_width="260dp"
         android:layout_height="300dp"
@@ -29,7 +29,7 @@
             android:id="@+id/elevation_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
-    </com.example.shadowview.layout.QMUILinearLayout>
+    </com.lwx.shadowlibrary.layout.QMUILinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"

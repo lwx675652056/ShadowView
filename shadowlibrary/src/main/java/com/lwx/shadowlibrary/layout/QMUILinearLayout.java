@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.example.shadowview.layout;
+package com.lwx.shadowlibrary.layout;
 
 import android.content.Context;
 import android.graphics.Canvas;
 import android.support.annotation.ColorInt;
 import android.util.AttributeSet;
 
-import com.example.shadowview.util.QMUILayoutHelper;
+import com.lwx.shadowlibrary.util.QMUILayoutHelper;
 
 /**
  * @author cginechen
