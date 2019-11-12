@@ -732,7 +732,6 @@ public class QMUILayoutHelper implements IQMUILayout {
         mPath.reset();
         mPath.addRoundRect(rect, radiusArray, Path.Direction.CW);
         canvas.drawPath(mPath, paint);
-
     }
 
     public static boolean useFeature() {

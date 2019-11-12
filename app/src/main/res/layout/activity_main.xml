@@ -16,10 +16,10 @@
         android:background="#ffffff"
         android:gravity="center"
         android:orientation="vertical"
-        app:qmui_borderColor="#DEE0E2"
-        app:qmui_outerNormalColor="#F4F5F7"
-        app:qmui_showBorderOnlyBeforeL="true">
-
+        >
+        <!--app:qmui_borderColor="#DEE0E2"-->
+        <!--app:qmui_outerNormalColor="#F4F5F7"-->
+        <!--app:qmui_showBorderOnlyBeforeL="true"-->
         <TextView
             android:id="@+id/alpha_tv"
             android:layout_width="wrap_content"

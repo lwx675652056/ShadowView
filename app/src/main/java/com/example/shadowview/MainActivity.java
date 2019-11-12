@@ -51,6 +51,10 @@ public class MainActivity extends AppCompatActivity {
 
         testSeekbarAlpha.setProgress((int) (mShadowAlpha * 100));
         testSeekbarElevation.setProgress(mShadowElevationDp);
+        mTestLayout.setRadiusAndShadow(mRadius,
+                QMUIDisplayHelper.dp2px(MainActivity.this, mShadowElevationDp),
+                mShadowAlpha);
+        mTestLayout.setShadowColor(0xffffff00);
     }
 
     private void initListener() {
